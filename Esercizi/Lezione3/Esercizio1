@@ -1,0 +1,24 @@
+// function convertiVoto(v) {
+//     if (v < 18) {
+//       return "insufficiente";
+//     } else if (v < 21) {
+//       return "sufficiente";
+//     } else if (v < 24) {
+//       return "buono";
+//     } else if (v < 27) {
+//       return "distinto";
+//     } else if (v <= 29) {
+//       return "ottimo";
+//     } else if (v === 30) {
+//       return "eccellente";
+//     } else {
+//       return "voto non valido";
+//     }
+//   }
+  
+  
+//   var voto = parseInt(prompt ( ' Inserisci il tuo voto'));
+//   var giudizio = convertiVoto(voto);
+  
+//   alert ( `Il tuo voto mi dice che hai eseguito il tuo compito in modo ${giudizio}. ` )
+//   console.log ( `Il tuo voto mi dice che hai eseguito il tuo compito in modo30 ${giudizio}. ` )
