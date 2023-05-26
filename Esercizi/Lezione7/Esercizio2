@@ -1,0 +1,32 @@
+// const bowling = {
+//     players: [
+//       { name: "Giocatore 1", scores: [7, 9, 10], total: 0 },
+//       { name: "Giocatore 2", scores: [6, 8, 9], total: 0 },
+//       { name: "Giocatore 3", scores: [10, 10, 10], total: 0 },
+//       { name: "Giocatore 4", scores: [9, 9, 9], total: 0 }
+//     ]
+//   };
+  
+//   function calculateTotal(player) {
+//     const scores = player.scores;
+//     const total = scores.reduce((sum, score) => sum + score, 0);
+//     player.total = total;
+//   }
+  
+//   function checkWinner(game) {
+//     game.players.forEach(calculateTotal);
+  
+//     let winner = game.players[0];
+//     for (let i = 1; i < game.players.length; i++) {
+//       if (game.players[i].total > winner.total) {
+//         winner = game.players[i];
+//       }
+//     }
+  
+//     return winner;
+//   }
+  
+//   const winner = checkWinner(bowling);
+//   console.log("Il vincitore della partita è:", winner.name);
+//   console.log("Punteggio totale:", winner.total);
+  
