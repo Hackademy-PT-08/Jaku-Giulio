@@ -1,0 +1,48 @@
+//  function contaVocali(testo) {
+//      var a = 0;
+//      var e = 0;
+//      var i = 0;
+//      var o = 0;
+//      var u = 0;
+//      var totaleVocali = 0;
+    
+//      var testoPulito = testo.replace(/[^a-zA-Z]/g, "").toLowerCase(); //L'espressione elimina qualsiasi cosa che non sia una lettera maiuscola o minuscola
+  
+//      // Conta le occorrenze di ogni vocale
+//      for (var j = 0; j < testoPulito.length; j++) {
+//        var carattere = testoPulito.charAt(j);
+//        if (carattere === "a") {
+//          a++;
+//          totaleVocali++;
+//        } else if (carattere === "e") {
+//          e++;
+//          totaleVocali++;
+//        } else if (carattere === "i") {
+//          i++;
+//          totaleVocali++;
+//        } else if (carattere === "o") {
+//          o++;
+//          totaleVocali++;
+//        } else if (carattere === "u") {
+//          u++;
+//          totaleVocali++;
+//        }
+//      }
+  
+//      return {
+//        a: a,
+//        e: e,
+//        i: i,
+//        o: o,
+//        u: u,
+//        totaleVocali: totaleVocali,
+//      };
+//    }
+  
+//    
+//    var testo =
+//      'Il passaggio standard del Lorem Ipsum, utilizzato sin dal sedicesimo secolo\n\n"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."\n\nLa sezione 1.10.32 del "de Finibus Bonorum et Malorum", scritto da Cicerone nel 45 AC\n\n"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"\n';
+  
+//    var risultato = contaVocali(testo);
+//    console.log(risultato)
+  
