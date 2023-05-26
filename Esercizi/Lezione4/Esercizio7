@@ -1,0 +1,27 @@
+// function generaNumeroCasuale() {
+//     return Math.floor(Math.random() * 10) + 1; // Genera un numero casuale tra 1 e 10
+//   }
+  
+//   function controllaPariDispari(numero) {
+//     if (numero % 2 === 0) {
+//       return "pari";
+//     } else {
+//       return "dispari";
+//     }
+//   }
+  
+//   function giocoPariDispari() {
+//     var numeroCasuale = generaNumeroCasuale();
+//     var risultatoCorretto = controllaPariDispari(numeroCasuale);
+  
+//     var sceltaGiocatore = prompt("Indovina se il numero è pari o dispari:").toLowerCase();
+  
+//     if (sceltaGiocatore === risultatoCorretto) {
+//       console.log("Hai indovinato! Il numero era " + risultatoCorretto + ".");
+//     } else {
+//       console.log("Mi dispiace, hai sbagliato. Il numero era " + risultatoCorretto + ".");
+//     }
+//   }
+  
+//   giocoPariDispari();
+  
