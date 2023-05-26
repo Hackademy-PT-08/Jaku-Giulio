@@ -1,0 +1,36 @@
+// function calculate(array1, array2, operazione) {
+//     const c = [];
+    
+//     for (let i = 0; i < array1.length; i++) {
+//       let result;
+      
+//       switch (operazione) {
+//         case 'addizione':
+//           result = array1[i] + array2[i];
+//           break;
+//         case 'sottrazione':
+//           result = array1[i] - array2[i];
+//           break;
+//         case 'moltiplicazione':
+//           result = array1[i] * array2[i];
+//           break;
+//         case 'divisione':
+//           result = array1[i] / array2[i];
+//           break;
+//         default:
+//           console.log('Operazione non valida');
+//           return;
+//       }
+      
+//       c.push(result);
+//     }
+    
+//     return c;
+//   }
+ 
+//   const a = [3, 7, 2, 5, 8];
+// const b = [9, 3, 1, 4, 7];
+// const operazione = 'addizione';
+
+// const risultato = calculate(a, b, operazione);
+// console.log(risultato); // Output: [12, 10, 3, 9, 15]
