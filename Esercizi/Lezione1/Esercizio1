@@ -1,0 +1,26 @@
+// //Dichiaro le variabili 
+
+// let bookTitle ;
+
+
+// let bookDescription ;
+
+
+// //Ma le valorizzo su un altra riga
+
+
+
+// bookTitle = "Etherea - il regno magico" ;
+
+// bookDescription = `Una volta, in un regno lontano chiamato Etherea, sorgeva una città avvolta nella magia e nel mistero. Questa città era conosciuta come Aurorhaven, un luogo dove creature fantastiche e umani vivevano in armonia.
+
+// Al centro di Aurorhaven si ergeva un maestoso castello di cristallo, la dimora del re e della regina. Ma dietro quella splendente facciata si nascondeva un segreto oscuro. Un antico incantesimo si stava dissolvendo, minacciando di distruggere il regno intero.
+
+// Una giovane maga di nome Elara si presentò al castello, convinta di poter trovare una soluzione. Con i suoi poteri e la sua determinazione, si immerse nelle biblioteche antiche e consultò saggi incantati. Scoprì che solo un artefatto magico perduto da tempo, la Gemma dell'Eternità, poteva salvare Aurorhaven.
+
+// Accompagnata da un coraggioso guerriero di nome Aiden, Elara intraprese un pericoloso viaggio attraverso terre selvagge e foreste incantate. Affrontarono creature malvagie, superarono prove arcane e affrontarono i loro più grandi timori.
+
+// Finalmente, raggiunsero le Terre Oscure, dove un antico drago custodiva la Gemma dell'Eternità. In un'epica battaglia, Elara e Aiden ( se sei arrivato fino qui scrivimi per il continuo XDXDXD) `
+
+
+// console.log (  `Titolo libro : ${bookTitle} \nDescrizione : ${bookDescription}` ) ;               
