@@ -1,0 +1,8 @@
+// let totaleGatti = 38  ;
+// let gattiPerFila = 5 ;
+// let numFile = Math.ceil(totaleGatti / gattiPerFila) ;
+// let gattiMancanti = gattiPerFila - (totaleGatti % gattiPerFila) ;
+
+
+// alert ( `Il numero di file è ${numFile} mentre i mandi mancanti per completare l'ultima fila sono ${gattiMancanti}` ) ;
+// console.log (`Il numero di file è ${numFile} mentre i mandi mancanti per completare l'ultima fila sono ${gattiMancanti}`) ;
