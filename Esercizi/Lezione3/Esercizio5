@@ -1,0 +1,37 @@
+
+
+// function lancioDado() {
+//     return Math.floor(Math.random() * 6) + 1;
+//   }
+  
+//   function giocoDeiDadi(N) {
+//     let punteggioGiocatore1 = 0;
+//     let punteggioGiocatore2 = 0;
+  
+//     for (var i = 0; i < N; i++) {
+//       var dadoGiocatore1 = lancioDado();
+//       var dadoGiocatore2 = lancioDado();
+  
+//       punteggioGiocatore1 += dadoGiocatore1;
+//       punteggioGiocatore2 += dadoGiocatore2;
+  
+//       console.log("Giocatore 1: " + dadoGiocatore1);
+//       console.log("Giocatore 2: " + dadoGiocatore2);
+//     }
+  
+//     console.log("Punteggio finale:");
+//     console.log("Giocatore 1: " + punteggioGiocatore1);
+//     console.log("Giocatore 2: " + punteggioGiocatore2);
+  
+//     if (punteggioGiocatore1 > punteggioGiocatore2) {
+//       console.log("Giocatore 1 ha totalizzato più punti e vince!");
+//     } else if (punteggioGiocatore2 > punteggioGiocatore1) {
+//       console.log("Giocatore 2 ha totalizzato più punti e vince!");
+//     } else {
+//       console.log("I giocatori hanno totalizzato lo stesso punteggio!");
+//     }
+//   }
+  
+//   let N = 5; // 
+//   giocoDeiDadi(N);
+  
