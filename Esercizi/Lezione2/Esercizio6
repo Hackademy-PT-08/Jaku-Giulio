@@ -1,0 +1,13 @@
+// function offuscaNumeroTelefono(numeroTelefono) {
+//     let lunghezzaNumero = numeroTelefono.length;
+//     let cifreOscurate = numeroTelefono.substring(0, lunghezzaNumero - 3).replace(/\d/g, '*'); 
+//     let ultimeTreCifre = numeroTelefono.substring(lunghezzaNumero - 3);
+//     let numeroOscurato = cifreOscurate + ultimeTreCifre;
+//     return numeroOscurato;
+//   }
+  
+//   // Esempio di utilizzo
+//   let numeroTelefono = "3882511546";
+//   let numeroOffuscato = offuscaNumeroTelefono(numeroTelefono);
+//   console.log(numeroOffuscato);
+  
