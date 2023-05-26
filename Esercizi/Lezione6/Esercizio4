@@ -1,0 +1,47 @@
+// const LIBRI = [
+//     {
+//       titolo: "Il Signore degli Anelli",
+//       autore: "Tolkien",
+//       categoria: "fantasy"
+//     },
+//     {
+//       titolo: "Harry Potter",
+//       autore: "Rowling",
+//       categoria: "fantasy",
+//     },
+//     {
+//       titolo: "Il Conte di Montecristo",
+//       autore: "Dumas",
+//       categoria: "narrativa classica"
+//     },
+//     {
+//       titolo: "Dune",
+//       autore: "Herbert",
+//       categoria: "fantascienza"
+//     },
+//     {
+//       titolo: "Fight Club",
+//       autore: "Palahniuk",
+//       categoria: "narrativa moderna"
+//     }
+//   ];
+  
+//   function generaListaAnchor(libri, categoria) {
+//     const listaAnchor = [];
+  
+//     for (const libro of libri) {
+//       if (libro.categoria === categoria) {
+//         const url = `www.lamiasuperlibreria.aulab/${libro.autore.toLowerCase().replace(' ', '-')}/${libro.titolo.toLowerCase().replace(' ', '-')}.html`;
+//         const anchor = `<a href="${url}">${libro.titolo}</a>`;
+//         listaAnchor.push(anchor);
+//       }
+//     }
+  
+//     return listaAnchor;
+//   }
+  
+//   const categoriaInput = "fantasy";
+//   const listaAnchor = generaListaAnchor(LIBRI, categoriaInput);
+  
+//   console.log(listaAnchor);
+  
