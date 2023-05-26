@@ -1,0 +1,13 @@
+// let userName = undefined  ;
+// let userPassowrd = undefined ;
+ 
+// userName = prompt('Inserisci il tuo UserName !') ;
+// userPassowrd = prompt('Inserisci la tua passowrd !') ;
+ 
+ 
+ 
+ 
+// alert ( `Ciao  ${userName}  ! \nquesta è la tua passowrd : " ${userPassowrd} " ` ) ;
+ 
+ 
+// console.log (  `Ciao  ${userName}  ! \nquesta è la tua passowrd : " ${userPassowrd} " ` )  ;
