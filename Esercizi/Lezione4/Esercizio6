@@ -1,0 +1,24 @@
+// function giocoDiDadi(numeroTiri) {
+//     var punteggioGiocatore1 = 0;
+//     var punteggioGiocatore2 = 0;
+  
+//     for (var i = 0; i < numeroTiri; i++) {
+//       var dadoGiocatore1 = Math.floor(Math.random() * 6) + 1;
+//       var dadoGiocatore2 = Math.floor(Math.random() * 6) + 1;
+  
+//       punteggioGiocatore1 += dadoGiocatore1;
+//       punteggioGiocatore2 += dadoGiocatore2;
+//     }
+  
+//     console.log("Il punteggio del giocatore 1 è: " + punteggioGiocatore1);
+//     console.log("Il punteggio del giocatore 2 è: " + punteggioGiocatore2);
+  
+//     if (punteggioGiocatore1 > punteggioGiocatore2) {
+//       console.log("Il giocatore 1 ha vinto con un punteggio di " + punteggioGiocatore1 + "!");
+//     } else if (punteggioGiocatore2 > punteggioGiocatore1) {
+//       console.log("Il giocatore 2 ha vinto con un punteggio di " + punteggioGiocatore2 + "!");
+//     } else {
+//       console.log("Pareggio con un punteggio di " + punteggioGiocatore1 + "!");
+//     }
+//   }
+//   giocoDiDadi(5);
