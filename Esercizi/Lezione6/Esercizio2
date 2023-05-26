@@ -1,0 +1,56 @@
+// let rubrica = {
+//     utenti: []
+//   };
+  
+//   function aggiungiUtente(nome, cognome, telefono, indirizzo) {
+//     // Creazione dell'oggetto indirizzo
+//     let nuovoIndirizzo = {
+//       via: indirizzo.via,
+//       citta: indirizzo.citta,
+//       provincia: indirizzo.provincia
+//     };
+  
+//     let nuovoUtente = {
+//       nome: nome,
+//       cognome: cognome,
+//       telefono: telefono,
+//       indirizzo: nuovoIndirizzo
+//     };
+  
+//     rubrica.utenti.push(nuovoUtente);
+//   }
+  
+//   aggiungiUtente("Mario", "Rossi", "123456789", {
+//     via: "Via Roma",
+//     citta: "Milano",
+//     provincia: "MI"
+//   });
+//   aggiungiUtente("Giulia", "Bianchi", "987654321", {
+//     via: "Via Verdi",
+//     citta: "Roma",
+//     provincia: "RM"
+//   });
+//   aggiungiUtente("Luca", "Verdi", "555555555", {
+//     via: "Via degli Oleandri",
+//     citta: "Napoli",
+//     provincia: "NA"
+//   });
+  
+//   rubrica.getDettagliUtente = function(index) {
+//     let utente = this.utenti[index];
+//     return "Nome: " + utente.nome + ", Cognome: " + utente.cognome + ", Telefono: " + utente.telefono;
+//   };
+  
+//   // Stampa dei dettagli degli utenti presenti nella rubrica
+//   console.log("Dettagli degli utenti nella rubrica:");
+//   for (let i = 0; i < rubrica.utenti.length; i++) {
+//     console.log(rubrica.getDettagliUtente(i));
+//   }
+  
+//   rubrica.utenti.splice(1, 1); // Rimuove il secondo utente
+  
+//   console.log("Dettagli degli utenti nella rubrica dopo la rimozione:");
+//   for (let i = 0; i < rubrica.utenti.length; i++) {
+//     console.log(rubrica.getDettagliUtente(i));
+//   }
+  
