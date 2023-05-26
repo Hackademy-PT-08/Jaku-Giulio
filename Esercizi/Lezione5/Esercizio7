@@ -1,0 +1,22 @@
+// let myString = 'Ryu+Ken+Chun-Li+Cammy+Guile+Sakura+Sagat+Juri';
+
+// // Converti la stringa in un array utilizzando il carattere '+'
+// let myArray = myString.split('+');
+
+// // Memorizza la lunghezza dell'array
+// let arrayLength = myArray.length;
+
+// // Memorizza l'ultimo elemento dell'array
+// let lastItem = myArray[arrayLength - 1];
+
+// console.log(myArray)
+
+
+
+// Manipolazione delle stringhe: La stringa iniziale viene suddivisa in un array utilizzando il metodo split(), che divide la stringa in base a un delimitatore specificato. In questo caso, il delimitatore è il carattere "+".
+
+// Lavorare con gli array: Una volta che la stringa viene suddivisa in un array, è possibile accedere ai singoli elementi utilizzando l'indice. L'ultimo elemento dell'array può essere ottenuto utilizzando l'indice arrayLength - 1, poiché gli indici degli array iniziano da zero.
+
+// Memorizzazione dei risultati: L'esercizio richiede di memorizzare la lunghezza dell'array in una variabile chiamata arrayLength e l'ultimo elemento dell'array in una variabile chiamata lastItem. Questo mette in evidenza l'importanza di memorizzare i risultati intermedi in variabili per un uso futuro.
+
+// Concetti di base della programmazione: L'esercizio richiede l'utilizzo di operazioni fondamentali come la suddivisione di stringhe, l'accesso agli elementi degli array e la memorizzazione dei risultati. Questi sono concetti comuni e importanti nella programmazione.
