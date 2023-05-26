@@ -1,0 +1,47 @@
+// function calculatePoints(results) {
+//     let points = 0;
+    
+//     for (let i = 0; i < results.length; i++) {
+//       const [x, y] = results[i].split(':');
+      
+//       if (x > y) {
+//         points += 3;
+//       } else if (x === y) {
+//         points += 1;
+//       }
+//     }
+    
+//     return points;
+//   }
+  
+//   console.log(calculatePoints(["1:0","2:0","3:0","4:0","2:1","3:1","4:1","3:2","4:2","4:3"])); // Output: 30
+// console.log(calculatePoints(["1:1","2:2","3:3","4:4","2:2","3:3","4:4","3:3","4:4","4:4"])); // Output: 10
+// console.log(calculatePoints(["0:1","0:2","0:3","0:4","1:2","1:3","1:4","2:3","2:4","3:4"])); // Output: 0
+// console.log(calculatePoints(["1:0","2:0","3:0","4:0","2:1","1:3","1:4","2:3","2:4","3:4"])); // Output: 15
+
+
+
+
+
+
+
+
+
+
+// Manipolazione di stringhe: L'esercizio richiede di estrarre i valori "x" e "y" da una stringa nel formato "x:y". Ciò richiede la comprensione e l'utilizzo di metodi per manipolare stringhe, come ad esempio il metodo split() per dividere la stringa in base a un delimitatore.
+
+// Utilizzo di cicli e iterazione: Per calcolare il punteggio totale, è necessario iterare attraverso gli elementi dell'array dei risultati delle partite. L'utilizzo di un ciclo for per scorrere gli elementi e prendere decisioni basate sui valori estratti è un aspetto fondamentale della programmazione.
+
+// Utilizzo di condizioni: Le regole per il conteggio dei punti richiedono l'utilizzo di istruzioni condizionali per determinare quanti punti assegnare in base ai valori "x" e "y" estratti. L'esercizio fornisce un'opportunità per utilizzare dichiarazioni if, else if e else per gestire le diverse situazioni.
+
+// Gestione delle variabili: L'esercizio richiede l'utilizzo di variabili per tenere traccia del punteggio totale e dei valori "x" e "y" estratti da ciascun risultato della partita.Inoltre, la variabile points viene aggiornata ad ogni iterazione per mantenere il punteggio totale accumulato.
+
+// Ragionamento logico: La soluzione richiede un ragionamento logico per interpretare le regole specificate e applicarle correttamente nel calcolo del punteggio totale.È importante comprendere i requisiti e trasformarli in un'implementazione funzionale e corretta.
+
+// In generale, questo esercizio aiuta a migliorare la comprensione delle operazioni di base in JavaScript, come la manipolazione di stringhe, l'uso di cicli e condizioni, e la gestione delle variabili. Inoltre, incoraggia a sviluppare abilità di problem solving e logica nella risoluzione di un problema specifico.
+
+
+
+
+
+
