@@ -1,0 +1,13 @@
+//  let password = `GiulioèBello123!!!` 
+
+// function controlloPwd(password) {
+//     if (password.length >= 6 && password.length <= 20 && (password.includes('!') || password.includes('_') || password.includes('-'))) {
+//        alert('Password creata correttamente.');
+//     } else {
+//        alert('error : Password da riformulare.');
+//     }
+//  }
+ 
+ 
+//  controlloPwd(password);
+ 
