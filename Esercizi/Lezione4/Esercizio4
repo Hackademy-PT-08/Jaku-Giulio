@@ -1,0 +1,17 @@
+// function conteggioLettera() {
+//     var frase = prompt("Inserisci una frase:");
+//     var lettera = prompt("Inserisci una lettera:");
+  
+//     var conteggio = 0;
+//     for (var i = 0; i < frase.length; i++) {
+//       if (frase.charAt(i) === lettera) {
+//         conteggio++;
+//       }
+//     }
+  
+//     return conteggio;
+//   }
+  
+//   var risultato = conteggioLettera();
+//   console.log("Il conteggio finale è: " + risultato);
+  
