@@ -1,0 +1,49 @@
+// function find(products) {
+//     let userInput = prompt("Inserisci il nome del prodotto da cercare:");                
+//     let productFound = false;
+    
+//     for (let i = 0; i < products.length; i++) {
+//       if (products[i].toLowerCase() === userInput.toLowerCase()) {
+//         alert("Prodotto trovato: " + products[i]);
+//         productFound = true;
+//         break;
+//       }
+//     }
+    
+//     if (!productFound) {
+//       alert("Prodotto non trovato. Riprova la ricerca.");
+//       find(products);
+//     }
+//   }
+  
+//   // Array di prodotti
+//   let products = [
+//     "Smartphone",
+//     "Auricolari Bluetooth",
+//     "Motorino",
+//     "Auto",
+//     "T-shirt",
+//     "Felpa con cappuccio",
+//     "Nano da giardino",
+//     "Videogioco Super Nintendo"
+//   ];
+  
+//   // Chiamata alla funzione find
+//   find(products);
+  
+
+
+
+
+
+
+
+// Utilizzo degli array: L'esercizio richiede di lavorare con un array di prodotti e di accedere agli elementi dell'array per effettuare la ricerca.
+
+// Iterazione attraverso un ciclo: Viene utilizzato un ciclo for per scorrere gli elementi dell'array e confrontarli con l'input dell'utente.
+
+// Confronto e confronto case-insensitive: L'esercizio richiede di confrontare due stringhe, l'elemento dell'array e l'input dell'utente, senza tener conto delle differenze tra maiuscole e minuscole. Ciò può essere realizzato convertendo entrambe le stringhe in lettere minuscole utilizzando il metodo toLowerCase().
+
+// Gestione degli input dell'utente: L'uso del prompt per ottenere l'input dell'utente e la gestione delle risposte, inclusa la gestione del caso in cui il prodotto non venga trovato, forniscono l'opportunità di esercitarsi nell'interazione con l'utente e nel controllo di flusso.
+
+// Utilizzo degli alert: Vengono utilizzati gli alert per mostrare i risultati al cliente, comunicando se il prodotto è stato trovato o meno.
