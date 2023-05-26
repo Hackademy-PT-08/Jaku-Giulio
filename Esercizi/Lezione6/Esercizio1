@@ -1,0 +1,28 @@
+// let playlist = {
+//     canzoni: []
+//   };
+  
+//   function aggiungiCanzone(titolo, nomeCantante, anno) {
+//     // Creazione dell'oggetto canzone
+//     let nuovaCanzone = {
+//       titolo: titolo,
+//       nomeCantante: nomeCantante,
+//       anno: anno
+//     };
+  
+//     playlist.canzoni.push(nuovaCanzone);
+  
+//     console.log("Canzoni nella playlist:");
+//     playlist.canzoni.forEach(function(canzione, index) {
+//       console.log("Canzone " + (index + 1) + ":");
+//       console.log("Titolo: " + canzione.titolo);
+//       console.log("Nome Cantante: " + canzione.nomeCantante);
+//       console.log("Anno: " + canzione.anno);
+//       console.log("--------------------");
+//     });
+//   }
+  
+//   aggiungiCanzone("Bohemian Rhapsody", "Queen", 1975);
+//   aggiungiCanzone("Hotel California", "Eagles", 1976);
+//   aggiungiCanzone(prompt('Inserisci il nome della canzone'), prompt('Inserisci il nome del autore'), prompt('Inserisci anno'));
+  
