@@ -1,0 +1,27 @@
+// let password = '';
+// let maxTentativi = 3;
+// let tentativi = 0;
+
+// while (tentativi < maxTentativi) {
+//   password = prompt('Inserisci la password');
+
+//   if (controlloPwd(password)) {
+//     alert('Password creata correttamente.');
+//     break;
+//   } else {
+//     alert('Error: Password da riformulare.');
+//     tentativi++;
+//   }
+// }
+
+// if (tentativi === maxTentativi) {
+//   alert('Hai raggiunto il numero massimo di tentativi.');
+// }
+
+// function controlloPwd(password) {
+//   if (password.length >= 6 && password.length <= 20 && (password.includes('!') || password.includes('_') || password.includes('-'))) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
