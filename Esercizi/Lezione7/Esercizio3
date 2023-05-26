@@ -1,0 +1,41 @@
+
+
+  //  //Compito che visualizza solo gli eventi correlati al giorno
+  // const CalendarioSettimanalePlus = {
+  //   Lunedì: [],
+  //   Martedì: [],
+  //   Mercoledì: [],
+  //   Giovedì: [],
+  //   Venerdì: [],
+  //   Sabato: [],
+  //   Domenica: [],
+  //   aggiungiEvento: function(giorno, evento) {
+  //     this[giorno].push(evento);
+  //     this[giorno].sort(function(a, b) {
+  //       return a.inizioEvento.localeCompare(b.inizioEvento);
+  //     });
+  //   }
+  // };
+  // const evento1 = {
+  //   nomeEvento: "Lezione",
+  //   inizioEvento: "18:30"
+  // };
+  // const evento2 = {
+  //   nomeEvento: "Allenamento",
+  //   inizioEvento: "14:00"
+  // };
+  // CalendarioSettimanalePlus.aggiungiEvento("Lunedì", evento1);
+  // CalendarioSettimanalePlus.aggiungiEvento("Martedì", evento2);
+  // // Stampare solo gli eventi se esistono
+  // for (const giorno in CalendarioSettimanalePlus) {
+  //   if (CalendarioSettimanalePlus.hasOwnProperty(giorno)) {
+  //     const eventi = CalendarioSettimanalePlus[giorno];
+  //     if (Array.isArray(eventi) && eventi.length > 0) {
+  //       console.log(`Hai un evento questo ${giorno}:`);
+  //       for (const evento of eventi) {
+  //         console.log(`- ${evento.nomeEvento} (${evento.inizioEvento})`);
+  //       }
+  //     }
+  //   }
+  // }
+  
