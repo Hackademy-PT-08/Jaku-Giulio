@@ -1,0 +1,8 @@
+
+// let movieTitle = ("Pulp fiction") ;       // Dichiaro il nome della variabile e il suo valore 
+
+// let movieYear = ("1994") ;             
+
+// let movieDirector = ("Quentin Tarantino") ;    
+
+// console.log ( movieTitle + "(" + movieYear + "-" + movieDirector + ")") ;
