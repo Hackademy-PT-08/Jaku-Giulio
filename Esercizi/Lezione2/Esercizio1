@@ -1,0 +1,13 @@
+// let num1 =  10 ;
+// let num2 =  25 ;
+// let num3 =  35 ; 
+// let num4 =  50 ; 
+// let num5 =  70 ;
+
+// let sum = ( num1 + num2 + num3 + num4 + num5 ) ;
+
+// let media = ( sum / 5 ) ;
+
+
+// alert(`La somma dei 5 numeri è : ${sum} , mentre la media è ${media}`) ;
+// console.log (`La somma dei 5 numeri è : ${sum} , mentre la media è ${media}`) ; 
