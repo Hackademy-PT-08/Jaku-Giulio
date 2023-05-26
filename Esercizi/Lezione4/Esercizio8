@@ -1,0 +1,27 @@
+//  function myLog(categoria, messaggio) {
+//      switch (categoria) {
+//        case "titolo":
+//          console.log("%c" + messaggio, "background-color: blue; font-size: 30px; color: white;");
+//          break;
+//        case "sottotitolo":
+//          console.log("%c" + messaggio, "font-size: 20px; color: blue;");
+//          break;
+//        case "highlight":
+//          console.log("%c" + messaggio, "background-color: orange;");
+//          break;
+//        case "disastro":
+//          console.log("%c" + messaggio, "background-color: red; font-size: 50px; color: white;");
+//          break;
+//        default:
+//          console.log(messaggio);
+//          break;
+//      }
+//    }
+
+//    // Esempi di utilizzo
+//    myLog("titolo", "Questo è un titolo");
+//    myLog("sottotitolo", "Questo è un sottotitolo");
+//    myLog("highlight", "Questo è un messaggio in evidenza");
+//    myLog("disastro", "Questo è un disastro!");
+//    myLog("altro", "Questo è un messaggio normale");
+  
