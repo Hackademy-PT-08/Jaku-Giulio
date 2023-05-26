@@ -1,0 +1,2 @@
+// alert(  ` il tuo nome inserito dal InPut è : ${nome} \nil tuo cognome è ${surname} ed hai ${age} anni e tutto questo è stato stampato in OutPut ` ) ;
+// console.log ( ` il tuo nome inserito dal InPut è : ${nome} \nil tuo cognome è ${surname} ed hai ${age} anni e tutto questo è stato stampato in OutPut `) ;
