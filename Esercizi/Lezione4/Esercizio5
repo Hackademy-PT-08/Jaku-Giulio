@@ -1,0 +1,20 @@
+// function calcolaVotoFantacalcio(baseVoto, golFatti, assistEffettuati, autogol, ammonizione, espulsione) {
+//     var voto = baseVoto;
+    
+//     voto += 3 * golFatti;
+//     voto += assistEffettuati;
+//     voto -= 2 * autogol;
+//     voto -= 0.5 * (ammonizione ? 1 : 0);
+//     voto -= espulsione ? 1 : 0;
+    
+//     return voto;
+//   }
+ 
+//   let baseVoto = 8;
+// let golFatti = 2;
+// let assistEffettuati = 1;
+// let autogol = 0;
+// let ammonizione = true;
+// let espulsione = false;
+// let votoFinale = calcolaVotoFantacalcio(baseVoto, golFatti, assistEffettuati, autogol, ammonizione, espulsione);
+// console.log(votoFinale);  // Stampa 14.5
