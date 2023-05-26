@@ -1,0 +1,34 @@
+// // let myString = 'Ryu+Ken+Chun-Li+Cammy+Guile+Sakura+Sagat+Juri';
+
+//  Converti la stringa in un array utilizzando il carattere '+'
+//  let myArray = myString.split('+');
+
+// // Memorizza la lunghezza dell'array
+//  let arrayLength = myArray.length;
+
+// // // Memorizza l'ultimo elemento dell'array
+//  let lastItem = myArray[arrayLength - 1];
+
+//  Rimuovi l'ultimo elemento dell'array
+// myArray.pop();
+
+// // Aggiungi due nomi alla fine dell'array
+// myArray.push('Akuma', 'M. Bison');
+
+// // Aggiungi due nomi all'inizio dell'array
+// myArray.unshift('Dhalsim', 'Blanka');
+
+// console.log(myArray)
+
+
+
+//commenti
+
+
+// Rimozione di elementi dall'array: Utilizzando il metodo pop(), è possibile rimuovere l'ultimo elemento dall'array. Questa operazione è utile quando si desidera eliminare un elemento specifico dall'array.
+
+// Aggiunta di elementi all'array: Utilizzando i metodi push() e unshift(), è possibile aggiungere elementi all'array. push() aggiunge elementi alla fine dell'array, mentre unshift() aggiunge elementi all'inizio dell'array. Queste operazioni consentono di estendere l'array con nuovi elementi.
+
+// Ordine degli elementi: L'aggiunta di elementi all'inizio o alla fine dell'array influisce sull'ordine degli elementi esistenti. Gli elementi aggiunti all'inizio dell'array si spostano verso destra, mentre gli elementi aggiunti alla fine dell'array vengono posizionati alla fine.
+
+// Modifica diretta dell'array: In questo esercizio, le operazioni sono state eseguite direttamente sull'array myArray. Questo mette in evidenza la possibilità di modificare gli array esistenti senza dover creare nuove variabili o copie dell'array.
