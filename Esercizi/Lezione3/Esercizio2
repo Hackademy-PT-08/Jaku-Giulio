@@ -1,0 +1,14 @@
+// let num = parseInt(prompt ( 'Inserisci un numero'));
+
+// function calcoloTabellina (num) {
+
+// for( let i = 0;i <= 10; i++) {
+//     let risultato = num * i ;
+//     console.log( `${num} x ${i} = ${risultato}`   )
+// }
+
+
+
+// } ;
+
+// calcoloTabellina (num) ;
