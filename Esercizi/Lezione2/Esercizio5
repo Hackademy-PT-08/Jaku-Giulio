@@ -1,0 +1,8 @@
+// let userName1 = prompt(`Inserisci l'userName 1` )
+// let userName2 = prompt(`Inserisci l'userName 2` )
+
+// let check = (userName1 === userName2)
+
+
+// alert(check)
+// console.log (check)
