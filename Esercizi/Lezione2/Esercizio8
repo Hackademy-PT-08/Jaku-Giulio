@@ -1,0 +1,4 @@
+// let numeroRandom = Math.floor(Math.random () * 6) + 1 ; //Moltipliachiamo Math.random in modo di aumentare il range di numeri casuali(default 0 a 1 ), tutto dentro un Math.Floor in modo da arrotondare per difetto il numero e non ottenere mai 0 grazie a +1
+
+// console.log (numeroRandom) ;
+
