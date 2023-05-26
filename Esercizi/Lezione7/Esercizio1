@@ -1,0 +1,32 @@
+//  const library = [
+//      {
+//        title: 'Bill Gates',
+//        author: 'The Road Ahead',
+//        readingStatus: false
+//      },
+//      {
+//        title: 'Steve Jobs',
+//        author: 'Walter Isaacson',
+//        readingStatus: true
+//      },
+//      {
+//        title: 'Mockingjay: The Final Book of The Hunger Games',
+//        author: 'Suzanne Collins',
+//        readingStatus: false
+//      }
+//    ];
+
+//   function stampaStatoLettura(library) {
+//     for (let i = 0; i < library.length; i++) {
+//       const libro = library[i]; // Trasformiamo l'indice in libro in modo da poter correlare .readingStatus alla costante mia costante(raggiungere il mio oggetto e la sua keyword)
+//       if (libro.readingStatus) {                                //non serve specificare true o false perchè la pressenza stessa è la risposta
+//         console.log(`${libro.title} di ${libro.author} è stato letto!`);
+//       } else {
+//         console.log(`${libro.title} di ${libro.author} non è ancora stato letto!`);
+//       }
+//     }
+//   }
+
+//    // Chiamata alla funzione mai da scoderare mannaggia 3 ore per capirloo
+//    stampaStatoLettura(library);
+  
