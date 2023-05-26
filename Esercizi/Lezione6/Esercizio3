@@ -1,0 +1,25 @@
+// const Garage = {
+//     automobili: [],
+  
+//     aggiungiAutomobile: function(marca, modello) {
+//       this.automobili.push({ brand: marca, model: modello });
+//     },
+  
+//     elencoAutomobili: function() {
+//       return this.automobili.map(automobile => `${automobile.brand} - ${automobile.model}`);
+//     }
+//   };
+  
+//   function stampaModelliGarage(garage) {
+//     const modelli = garage.automobili.map(automobile => automobile.model);
+//     console.log(modelli);
+//   }
+  
+//   Garage.aggiungiAutomobile('Renault', 'Twingo');
+//   Garage.aggiungiAutomobile('Fiat', '500');
+//   Garage.aggiungiAutomobile('Tesla', 'Model 3');
+  
+//   console.log(Garage.elencoAutomobili());  // Output: [ 'Renault - Twingo', 'Fiat - 500', 'Tesla - Model 3' ]
+  
+//   stampaModelliGarage(Garage);  // Output: [ 'Twingo', '500', 'Model 3' ]
+  
