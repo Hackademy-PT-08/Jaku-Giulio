@@ -1,0 +1,13 @@
+// function controllaNumero(num) {
+//     if (num > 0) {
+//       return "Il numero è positivo";
+//     } else if (num < 0) {
+//       return "Il numero è negativo";
+//     } else {
+//       return "Il numero è zero";
+//     }
+//   }
+//   console.log(controllaNumero(5));   // "Il numero è positivo"
+// console.log(controllaNumero(-2));   // Il numero è negativo"
+// console.log(controllaNumero(0));    // Il numero è zero"
+
