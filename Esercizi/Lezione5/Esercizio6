@@ -1,0 +1,27 @@
+// function getFirstLetters(frase) {
+//     // Dividiamo la frase in un array di parole utilizzando lo spazio come delimitatore
+//     const parole = frase.split(' ');
+  
+//     // Array per memorizzare le prime lettere di ogni parola
+//     const primeLettere = [];
+  
+//     // Iteriamo attraverso le parole e otteniamo la prima lettera di ciascuna
+//     for (let i = 0; i < parole.length; i++) {
+//       const parola = parole[i];
+      
+//       // Aggiungiamo la prima lettera di ogni parola all'array primeLettere
+//       primeLettere.push(parola[0]);
+//     }
+  
+//     // Uniamo le prime lettere in una stringa utilizzando il metodo join()
+//     const risultato = primeLettere.join('');
+  
+//     // Ritorniamo la stringa risultato
+//     return risultato;
+//   }
+  
+//   // Esempio di utilizzo della funzione
+//   const frase = "Ciao sono un esercizio sui metodi degli array";
+//   const primeLettere = getFirstLetters(frase);
+//   console.log(primeLettere); // Output: "Csuesmda"
+  
