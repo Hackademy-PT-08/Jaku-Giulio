@@ -1,0 +1,18 @@
+// let tempBari = 22 ;
+// let tempNaples = 21 ; 
+// let tempRome = 20 ;
+// let tempMilan = 19 ; 
+
+// let tempMaggiore = tempBari ;
+// let tempMinore = tempMilan   ;
+
+// let tempMaggioreNome = (`Bari`) ;
+// let tempMinoreNome = (`Milano`)  ;
+
+
+
+
+
+// alert( `La temperatura più alta è ${tempMaggiore}° e si trova a ${tempMaggioreNome} ,\nmentre la più bassa , ovvero di ${tempMinore}° si trova a ${tempMinoreNome}.\n   Grazie di aver scelto Meteo.Giulio ;D `  )
+
+// console.log (`La temperatura più alta è ${tempMaggiore}° e si trova a ${tempMaggioreNome} ,\nmentre la più bassa, ovvero di ${tempMinore}°  si trova a ${tempMinoreNome}.\n   Grazie di aver scelto Meteo.Giulio  <3` )
