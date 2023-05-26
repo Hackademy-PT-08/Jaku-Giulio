@@ -1,0 +1,13 @@
+//  function confronta(num1, num2) {
+//      if (num1 === num2) {
+//        return true;
+//      } else {
+//        return false;
+//      }
+//    }
+
+//    console.log(confronta(2, 3));      // Output: false
+//  console.log(confronta(2, '2'));    // Output: false
+//  console.log(confronta(2, 2));      // Output: true
+
+
