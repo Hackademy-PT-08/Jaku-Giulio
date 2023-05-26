@@ -1,0 +1,13 @@
+// let annoCorrente = parseInt (prompt (`Inserisci l'anno corrente`))  ;
+// let annoNascita = parseInt (prompt (`Inserisci l'anno della tua nascita`)) ;
+ 
+// let etaPersona = (annoCorrente - annoNascita) ;
+// let anniNecessari100 = 100 - etaPersona ;
+// let giorniMancanti100 = ( anniNecessari100 * 390 ) ;
+// let oreMancanti =( giorniMancanti100 * 24 ) ;
+// let minutiMancanti =( oreMancanti * 60 ) ;
+// let secondiMancanti=( minutiMancanti * 60 ) ;
+
+
+// alert (`Età : ${etaPersona} , per raggiungere i 100 anni ne devono trascorrere ancora ${ anniNecessari100} . \n Buon proseguimento di vita sei a -${giorniMancanti100} giorni , \noppure - ${oreMancanti} ore dalla tua morte certa!` ) ;
+//  console.log (`Età : ${etaPersona} , per raggiungere i 100 anni ne devono trascorrere ancora ${ anniNecessari100} . \n Buon proseguimento di vita sei a -${giorniMancanti100} giorni , \noppure - ${oreMancanti} ore dalla tua morte certa!`) ;
